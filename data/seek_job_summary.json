@@ -1,0 +1,19 @@
+{
+  "ai engineer": {
+    "keyword": "ai engineer",
+    "total_postings": 550,
+    "weekly_counts": {
+      "2025-10-13": 316,
+      "2025-10-20": 234
+    }
+  },
+  "python engineer": {
+    "keyword": "python engineer",
+    "total_postings": 550,
+    "weekly_counts": {
+      "2025-10-06": 163,
+      "2025-10-13": 295,
+      "2025-10-20": 92
+    }
+  }
+}

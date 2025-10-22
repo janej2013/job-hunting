@@ -1,0 +1,4402 @@
+[
+  {
+    "job_id": "88007920",
+    "title": "Data and Application Infrastructure Engineer",
+    "listing_date": "2025-10-21T07:19:25+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88007764",
+    "title": "Data and Application Infrastructure Engineer",
+    "listing_date": "2025-10-21T07:15:26+00:00",
+    "location": "Sydney NSW",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88007471",
+    "title": "Data Architect",
+    "listing_date": "2025-10-21T07:09:24+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Speller International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88007020",
+    "title": "ICT & Security Engineer",
+    "listing_date": "2025-10-21T07:00:12+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Aurecon",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88006427",
+    "title": "Senior Automation Engineer - Ansible, Terraform- 12 month contract",
+    "listing_date": "2025-10-21T06:46:04+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Bluefin Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88006387",
+    "title": "Senior Automation Engineer - Ansible, Terraform- 12 month contract",
+    "listing_date": "2025-10-21T06:45:06+00:00",
+    "location": "Sydney NSW",
+    "employer": "Bluefin Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88006449",
+    "title": "Engineering Manager - Data Engineering & Platforms",
+    "listing_date": "2025-10-21T06:41:32+00:00",
+    "location": "Melbourne VIC",
+    "employer": "carsales",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88006236",
+    "title": "Business Analyst \u2013 AI Initiatives",
+    "listing_date": "2025-10-21T06:41:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Calleo",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88005776",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-21T06:28:04+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Onset",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88005663",
+    "title": "Senior DevOps Engineer",
+    "listing_date": "2025-10-21T06:25:10+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Seqwater",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88005564",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-21T06:22:07+00:00",
+    "location": "Sydney NSW",
+    "employer": "Map Talent Group",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88004930",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-21T06:02:47+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Smile IT",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88004915",
+    "title": "IT Software Engineer",
+    "listing_date": "2025-10-21T06:01:54+00:00",
+    "location": "Beverley, Adelaide SA",
+    "employer": "Electrolux",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88004909",
+    "title": "System Engineer",
+    "listing_date": "2025-10-21T06:01:39+00:00",
+    "location": "Sydney NSW",
+    "employer": "SustainRecruit",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88004163",
+    "title": "CyberArk Engineer (PAM)",
+    "listing_date": "2025-10-21T05:41:42+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Davidson Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88004261",
+    "title": "Clinical Evaluation Specialist",
+    "listing_date": "2025-10-21T05:39:50+00:00",
+    "location": "Sydney NSW",
+    "employer": "Harrison AI",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88003895",
+    "title": "Senior Data Engineer (Azure/Snowflake)",
+    "listing_date": "2025-10-21T05:34:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "U&U Recruitment Partners",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88003617",
+    "title": "NPI Technician (AU)",
+    "listing_date": "2025-10-21T05:25:58+00:00",
+    "location": "Sydney NSW",
+    "employer": "Droneshield",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88002864",
+    "title": "Solution Architect - Telco",
+    "listing_date": "2025-10-21T05:12:04+00:00",
+    "location": "Sydney NSW",
+    "employer": "Launch Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88002416",
+    "title": "Senior Solutions Consultant | Marketing Automation",
+    "listing_date": "2025-10-21T05:01:24+00:00",
+    "location": "Sydney NSW",
+    "employer": "Real Time Australia",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88002234",
+    "title": "Technical Engineer",
+    "listing_date": "2025-10-21T04:55:23+00:00",
+    "location": "Brisbane QLD",
+    "employer": "BMT Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88002077",
+    "title": "Junior-Level Software Engineer (Systems & Mobile Platforms)",
+    "listing_date": "2025-10-21T04:52:08+00:00",
+    "location": "Mulgrave, Melbourne VIC",
+    "employer": "New Cloud Dynamics",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001963",
+    "title": "Senior Low-Latency Java Engineer - Electronic Trading",
+    "listing_date": "2025-10-21T04:47:45+00:00",
+    "location": "Sydney NSW",
+    "employer": "Macquarie Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001835",
+    "title": "C++ Engineer - Capital Markets",
+    "listing_date": "2025-10-21T04:45:59+00:00",
+    "location": "Sydney NSW",
+    "employer": "Macquarie Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001757",
+    "title": "Security Systems Engineer",
+    "listing_date": "2025-10-21T04:44:12+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Suncorp",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001490",
+    "title": "Software Engineers - Multiple Roles & Levels",
+    "listing_date": "2025-10-21T04:38:17+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Boeing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001319",
+    "title": "Engineer - E&M Planning & Monitoring",
+    "listing_date": "2025-10-21T04:35:04+00:00",
+    "location": "Cooma, Tumut, Snowy & Monaro NSW",
+    "employer": "Future Generation Snowy 2.0",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88001228",
+    "title": "Data Scientist :: Mid-level :: Long Term Contract :: ASAP Start",
+    "listing_date": "2025-10-21T04:32:36+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Future State People",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87990542",
+    "title": "PROGRAMMER",
+    "listing_date": "2025-10-21T04:20:05+00:00",
+    "location": "Thomastown, Melbourne VIC",
+    "employer": "AC Laser Cutting",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88000929",
+    "title": "Junior Full Stack Developer",
+    "listing_date": "2025-10-21T04:19:03+00:00",
+    "location": "Sydney NSW",
+    "employer": "Winning Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "88000727",
+    "title": "Modern Workplace Engineer (SOE / Intune / Azure Focused)",
+    "listing_date": "2025-10-21T04:18:50+00:00",
+    "location": "Perth WA",
+    "employer": "Robert Half",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "88000212",
+    "title": "Senior Network Engineer",
+    "listing_date": "2025-10-21T04:09:26+00:00",
+    "location": "Scoresby, Melbourne VIC",
+    "employer": "Leidos",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87999966",
+    "title": "Technology Architect",
+    "listing_date": "2025-10-21T04:04:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Calleo",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87999049",
+    "title": "Principal Systems Integrator",
+    "listing_date": "2025-10-21T03:44:20+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "Queensland Health",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87998785",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-21T03:38:05+00:00",
+    "location": "Hawthorn, Melbourne VIC",
+    "employer": "AVRUS Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87998723",
+    "title": "Technology Insights & Improvements Lead",
+    "listing_date": "2025-10-21T03:36:22+00:00",
+    "location": "Cremorne, Melbourne VIC",
+    "employer": "SEEK",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87998356",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-21T03:29:23+00:00",
+    "location": "Perth WA",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87998271",
+    "title": "Full Stack Developer \u2013 On-site (Highett, VIC)",
+    "listing_date": "2025-10-21T03:27:12+00:00",
+    "location": "Highett, Melbourne VIC",
+    "employer": "Atticus Health",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87998091",
+    "title": "Infrastructure Engineer",
+    "listing_date": "2025-10-21T03:22:30+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Nine",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87997655",
+    "title": "Head of Data, Analytics and Innovation",
+    "listing_date": "2025-10-21T03:19:43+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Collingwood Football Club",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87997855",
+    "title": "Technical Lead",
+    "listing_date": "2025-10-21T03:16:03+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Nine",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87997818",
+    "title": "Java Backend Software Engineer (Surface Mining Optimisation)",
+    "listing_date": "2025-10-21T03:15:23+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Task Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87997447",
+    "title": "DevOps Engineer - Kubernetes",
+    "listing_date": "2025-10-21T03:07:15+00:00",
+    "location": "Melbourne VIC",
+    "employer": "PRA",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87997378",
+    "title": "Asset Planning Engineer",
+    "listing_date": "2025-10-21T03:05:47+00:00",
+    "location": "Launceston, Launceston & North East TAS",
+    "employer": "TasPorts",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87997319",
+    "title": "Information Security Engineer",
+    "listing_date": "2025-10-21T03:04:39+00:00",
+    "location": "Mascot, Sydney NSW",
+    "employer": "Bank Australia",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87997232",
+    "title": "Information Security Engineer",
+    "listing_date": "2025-10-21T03:02:23+00:00",
+    "location": "Collingwood, Melbourne VIC",
+    "employer": "Bank Australia",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87997213",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-21T03:01:37+00:00",
+    "location": "Sydney NSW",
+    "employer": "FinXL IT Professional Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87997048",
+    "title": "API Developer",
+    "listing_date": "2025-10-21T02:58:35+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Alzaro",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87996927",
+    "title": "Corporate System Analyst",
+    "listing_date": "2025-10-21T02:55:31+00:00",
+    "location": "Wagga Wagga, Wagga Wagga & Riverina NSW",
+    "employer": "Wagga Wagga City Council",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996497",
+    "title": "Senior Data Engineer (perm/contract)",
+    "listing_date": "2025-10-21T02:53:07+00:00",
+    "location": "Sydney NSW",
+    "employer": "Software at Scale",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87996764",
+    "title": "General Manager Technology",
+    "listing_date": "2025-10-21T02:52:21+00:00",
+    "location": "Cheltenham, Melbourne VIC",
+    "employer": "Conquest Personnel",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996702",
+    "title": "Data and AI Team Application Technical Specialist",
+    "listing_date": "2025-10-21T02:51:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Compas",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87996354",
+    "title": "Full Stack Developer",
+    "listing_date": "2025-10-21T02:46:42+00:00",
+    "location": "Perth WA",
+    "employer": "3D Walkabout",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996428",
+    "title": "C4ISR Design Analyst  - Data",
+    "listing_date": "2025-10-21T02:45:10+00:00",
+    "location": "Canberra ACT",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996422",
+    "title": "Tech Lead",
+    "listing_date": "2025-10-21T02:45:06+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Onset",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996297",
+    "title": "OEM Interface Engineer",
+    "listing_date": "2025-10-21T02:42:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "Design & Build Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87996246",
+    "title": "Senior Security Services Engineer",
+    "listing_date": "2025-10-21T02:41:03+00:00",
+    "location": "Sydney NSW",
+    "employer": "iCare",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87995953",
+    "title": "Senior Desktop Engineer",
+    "listing_date": "2025-10-21T02:33:46+00:00",
+    "location": "Crawley, Perth WA",
+    "employer": "The University of Western Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87995517",
+    "title": "Integrated Solutions Developer",
+    "listing_date": "2025-10-21T02:25:12+00:00",
+    "location": "West Leederville, Perth WA",
+    "employer": "Catholic Education Western Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87995611",
+    "title": "Engineering Manager (FE) - Search Experience (Remote ANZ)",
+    "listing_date": "2025-10-21T02:21:48+00:00",
+    "location": "Sydney NSW",
+    "employer": "Canva",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87995162",
+    "title": "Maintenance Data Analyst",
+    "listing_date": "2025-10-21T02:16:59+00:00",
+    "location": "Perth WA",
+    "employer": "Ox Mountain Limited",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87994946",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-21T02:09:54+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Simplified Recruitment Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87994500",
+    "title": "Associate DevOps Engineer (Azure)",
+    "listing_date": "2025-10-21T01:59:28+00:00",
+    "location": "Carlton, Melbourne VIC",
+    "employer": "Redwolf + Rosch",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87994272",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-21T01:54:06+00:00",
+    "location": "Port Macquarie, Port Macquarie & Mid North Coast NSW",
+    "employer": "Essential Energy",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87994240",
+    "title": "Solutions Architect (Data)",
+    "listing_date": "2025-10-21T01:48:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "Bilue",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87993706",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-21T01:41:51+00:00",
+    "location": "Adelaide SA",
+    "employer": "BAE Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87993326",
+    "title": "Full Stack Developer (x2)",
+    "listing_date": "2025-10-21T01:32:05+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Peoplebank",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87993227",
+    "title": "IT Solutions Architect",
+    "listing_date": "2025-10-21T01:29:36+00:00",
+    "location": "Huntingwood, Sydney NSW",
+    "employer": "Capral Aluminium",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87993220",
+    "title": "Technology Lead/ Senior Developer",
+    "listing_date": "2025-10-21T01:29:18+00:00",
+    "location": "Perth WA",
+    "employer": "M&T Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87992773",
+    "title": "Senior Information Analyst",
+    "listing_date": "2025-10-21T01:12:16+00:00",
+    "location": "Osborne Park, Perth WA",
+    "employer": "Department of Training and Workforce Development WA",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87992538",
+    "title": "Embedded Software I&V Engineer",
+    "listing_date": "2025-10-21T01:11:31+00:00",
+    "location": "Sydney NSW",
+    "employer": "Cochlear",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87992473",
+    "title": "Full Stack Engineer",
+    "listing_date": "2025-10-21T01:10:45+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Syncio",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87992076",
+    "title": "Full Stack Software Engineer (.NET / React)",
+    "listing_date": "2025-10-21T01:02:29+00:00",
+    "location": "Botany, Sydney NSW",
+    "employer": "ASI Solutions",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87991868",
+    "title": "Technology Engineer",
+    "listing_date": "2025-10-21T00:55:59+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Sedgman",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87991778",
+    "title": "Developer - long term contract (12X12X12)",
+    "listing_date": "2025-10-21T00:53:26+00:00",
+    "location": "Canberra ACT",
+    "employer": "Helix Technology Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87991752",
+    "title": "Senior DevOps Engineer - AWS | Ansible | Terraform",
+    "listing_date": "2025-10-21T00:52:27+00:00",
+    "location": "Canberra ACT",
+    "employer": "Genesis Recruitment Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87991736",
+    "title": "Data & AI Consultant",
+    "listing_date": "2025-10-21T00:51:46+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Data#3",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87991411",
+    "title": "DevSecOps Engineer - long term contract (12X12X12)",
+    "listing_date": "2025-10-21T00:39:21+00:00",
+    "location": "Canberra ACT",
+    "employer": "Helix Technology Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87991351",
+    "title": "Product Engineering Lead",
+    "listing_date": "2025-10-21T00:36:25+00:00",
+    "location": "Melbourne VIC",
+    "employer": "The Decipher Bureau",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87991191",
+    "title": "Data Architect",
+    "listing_date": "2025-10-21T00:30:09+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87992784",
+    "title": "Customer Success Engineer",
+    "listing_date": "2025-10-21T00:30:00+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Tealium",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87991129",
+    "title": "Data & Integration Engineer",
+    "listing_date": "2025-10-21T00:27:57+00:00",
+    "location": "Bunbury, Bunbury & South West WA",
+    "employer": "MGM Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990939",
+    "title": "Security Engineer",
+    "listing_date": "2025-10-21T00:21:42+00:00",
+    "location": "Richmond, Melbourne VIC",
+    "employer": "7 Eleven",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990774",
+    "title": "Technical Officer",
+    "listing_date": "2025-10-21T00:16:07+00:00",
+    "location": "Greensborough, Melbourne VIC",
+    "employer": "Melbourne Polytechnic",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990759",
+    "title": "Pre-Sales Solution Engineer - Data Integration (Sydney/Melbourne)",
+    "listing_date": "2025-10-21T00:15:19+00:00",
+    "location": "Sydney NSW",
+    "employer": "Atturra",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990613",
+    "title": "Technical Lead",
+    "listing_date": "2025-10-21T00:09:21+00:00",
+    "location": "Caulfield North, Melbourne VIC",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87990612",
+    "title": "Senior Staff Data Scientist- Gen AI",
+    "listing_date": "2025-10-21T00:09:21+00:00",
+    "location": "Sydney NSW",
+    "employer": "CommBank",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990561",
+    "title": "Azure Data Engineer",
+    "listing_date": "2025-10-21T00:06:51+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Granite Consulting",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990284",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:54:32+00:00",
+    "location": "Perth WA",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990281",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:54:24+00:00",
+    "location": "Hobart TAS",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990279",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:54:11+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990275",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:54:04+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990273",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:53:57+00:00",
+    "location": "Adelaide SA",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990271",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:53:49+00:00",
+    "location": "Sydney NSW",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990266",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:53:38+00:00",
+    "location": "Darwin NT",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87990265",
+    "title": "Integration Specialist",
+    "listing_date": "2025-10-20T23:53:30+00:00",
+    "location": "Canberra ACT",
+    "employer": "Australian Federal Police",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87989892",
+    "title": "Senior Software Engineer (MS SQL Server programming)",
+    "listing_date": "2025-10-20T23:36:06+00:00",
+    "location": "Sydney NSW",
+    "employer": "Peoplebank",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87989842",
+    "title": "Network Engineer - long term contract (12X12X12)",
+    "listing_date": "2025-10-20T23:34:32+00:00",
+    "location": "Canberra ACT",
+    "employer": "Helix Technology Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87989815",
+    "title": "Data Centre Technician",
+    "listing_date": "2025-10-20T23:33:56+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Amazon Web Services",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87989714",
+    "title": "Infrastructure Engineer - long term contract (12X12X12)",
+    "listing_date": "2025-10-20T23:31:29+00:00",
+    "location": "Canberra ACT",
+    "employer": "Helix Technology Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87989578",
+    "title": "Linux Engineer - long term contract (12X12X12)",
+    "listing_date": "2025-10-20T23:29:15+00:00",
+    "location": "Canberra ACT",
+    "employer": "Helix Technology Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87989471",
+    "title": "Systems Engineer (Rail)",
+    "listing_date": "2025-10-20T23:26:24+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "SAGE Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87989456",
+    "title": "Senior Technical Business Analyst",
+    "listing_date": "2025-10-20T23:25:43+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Custom Fleet",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87989439",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-20T23:25:06+00:00",
+    "location": "Canberra ACT",
+    "employer": "Emanate Technology",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87989085",
+    "title": "Data Analyst",
+    "listing_date": "2025-10-20T23:15:05+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Amber Electric",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87988653",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-20T23:05:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "Clicks IT Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87988513",
+    "title": "Change Manager - Data & AI",
+    "listing_date": "2025-10-20T23:01:24+00:00",
+    "location": "Sydney NSW",
+    "employer": "Marlin Human Capital",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87988284",
+    "title": "Head of Engineering",
+    "listing_date": "2025-10-20T22:53:20+00:00",
+    "location": "Adelaide SA",
+    "employer": "FYI Software",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87988221",
+    "title": "Automation & AI Workflow Specialist (n8n / Shopify / Klaviyo)",
+    "listing_date": "2025-10-20T22:50:38+00:00",
+    "location": "Varsity Lakes, Gold Coast QLD",
+    "employer": "BIOSOTA ORGANICS PTY LTD",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87988061",
+    "title": "Wireless Network Engineer (Melbourne)",
+    "listing_date": "2025-10-20T22:40:33+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Iptel Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987989",
+    "title": "Production Support Engineer",
+    "listing_date": "2025-10-20T22:35:55+00:00",
+    "location": "Sydney NSW",
+    "employer": "DataMesh",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987905",
+    "title": "Senior Simulation Engineer (Unreal Engine)",
+    "listing_date": "2025-10-20T22:30:34+00:00",
+    "location": "Hendon, Adelaide SA",
+    "employer": "Acacia Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987904",
+    "title": "Strategic Partnerships Lead \u2013 AI & Digital Services",
+    "listing_date": "2025-10-20T22:30:27+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Detection Services",
+    "work_type": "Part time"
+  },
+  {
+    "job_id": "87987777",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-20T22:25:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "DataMesh",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987590",
+    "title": "Senior Python Developer",
+    "listing_date": "2025-10-20T22:13:41+00:00",
+    "location": "Sydney NSW",
+    "employer": "Clicks IT Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87987495",
+    "title": "Red Hat OpenShift Engineer",
+    "listing_date": "2025-10-20T22:05:23+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87987388",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-20T21:56:50+00:00",
+    "location": "Caulfield North, Melbourne VIC",
+    "employer": "FatSecret",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987116",
+    "title": "Business & Information Systems Analyst",
+    "listing_date": "2025-10-20T21:24:29+00:00",
+    "location": "Dandenong, Melbourne VIC",
+    "employer": "City of Greater Dandenong",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87987027",
+    "title": "Technical Data Architect",
+    "listing_date": "2025-10-20T21:09:19+00:00",
+    "location": "Sydney NSW",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87986388",
+    "title": "DevOps Engineer",
+    "listing_date": "2025-10-20T18:44:59+00:00",
+    "location": "Sydney NSW",
+    "employer": "Ungerboeck",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87985842",
+    "title": "Lead Data Engineer",
+    "listing_date": "2025-10-20T15:12:53+00:00",
+    "location": "Sydney NSW",
+    "employer": "Wisr",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87986416",
+    "title": "Senior Network Analytics Engineer",
+    "listing_date": "2025-10-20T12:00:00+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Zinfra",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87984606",
+    "title": "Embedded Software Team Lead",
+    "listing_date": "2025-10-20T11:43:26+00:00",
+    "location": "Adelaide SA",
+    "employer": "Myriota",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87984525",
+    "title": "Software Engineer - C++",
+    "listing_date": "2025-10-20T11:23:44+00:00",
+    "location": "Ryde, Sydney NSW",
+    "employer": "Honeywell",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87984524",
+    "title": "Senior Advanced Software Engineer",
+    "listing_date": "2025-10-20T11:23:43+00:00",
+    "location": "Ryde, Sydney NSW",
+    "employer": "Honeywell",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87984521",
+    "title": "Lead Technical Product Owner",
+    "listing_date": "2025-10-20T11:23:23+00:00",
+    "location": "Ryde, Sydney NSW",
+    "employer": "Honeywell",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87984002",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-20T10:39:50+00:00",
+    "location": "Edinburgh, Adelaide SA",
+    "employer": "BAE Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87981917",
+    "title": "Autonomy & Energy Systems Engineer",
+    "listing_date": "2025-10-20T09:01:38+00:00",
+    "location": "Perth WA",
+    "employer": "Verse Group",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87981024",
+    "title": "Technical Writer \u2013 Expert Level",
+    "listing_date": "2025-10-20T08:20:22+00:00",
+    "location": "Notting Hill, Melbourne VIC",
+    "employer": "ESE Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87981157",
+    "title": "Controls Systems Engineer",
+    "listing_date": "2025-10-20T08:19:57+00:00",
+    "location": "Wetherill Park, Sydney NSW",
+    "employer": "CSR Limited",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87980528",
+    "title": "C++ Developer",
+    "listing_date": "2025-10-20T07:59:08+00:00",
+    "location": "Sydney NSW",
+    "employer": "Halcyon Knights",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87980165",
+    "title": "Senior AI Applied Engineer",
+    "listing_date": "2025-10-20T07:40:15+00:00",
+    "location": "Australia",
+    "employer": "Envato",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979965",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-20T07:36:46+00:00",
+    "location": "Perth WA",
+    "employer": "Brunel",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87979749",
+    "title": "Python Engineer (Medical Imaging)",
+    "listing_date": "2025-10-20T07:31:36+00:00",
+    "location": "Sydney NSW",
+    "employer": "Omniscient Neurotechnology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979754",
+    "title": "ITP443 - Integration Developer",
+    "listing_date": "2025-10-20T07:29:05+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Peoplebank",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87979768",
+    "title": "Staff Software Engineer",
+    "listing_date": "2025-10-20T07:24:30+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979767",
+    "title": "Senior Manager, Software Engineering",
+    "listing_date": "2025-10-20T07:24:28+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87843123",
+    "title": "ICT System Engineer",
+    "listing_date": "2025-10-20T07:23:28+00:00",
+    "location": "Sydney NSW",
+    "employer": "China Unicom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979701",
+    "title": "Staff Software Engineer",
+    "listing_date": "2025-10-20T07:21:58+00:00",
+    "location": "Sydney NSW",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979700",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-20T07:21:57+00:00",
+    "location": "Sydney NSW",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87979200",
+    "title": "Software Engineer II",
+    "listing_date": "2025-10-20T07:03:09+00:00",
+    "location": "New South Wales",
+    "employer": "Eucalyptus",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978918",
+    "title": "Junior Full Stack Developer (AI Tools & Automation)",
+    "listing_date": "2025-10-20T06:57:20+00:00",
+    "location": "Richmond, Melbourne VIC",
+    "employer": "Boab AI Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978755",
+    "title": "Product Engineering Specialist",
+    "listing_date": "2025-10-20T06:50:47+00:00",
+    "location": "Leederville, Perth WA",
+    "employer": "Water Corporation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978569",
+    "title": "Senior Systems Engineer",
+    "listing_date": "2025-10-20T06:44:17+00:00",
+    "location": "Sydney NSW",
+    "employer": "Credit Collection Services Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978485",
+    "title": "AI Solutions Manager - Up to $120,000 + super",
+    "listing_date": "2025-10-20T06:41:04+00:00",
+    "location": "Collingwood, Melbourne VIC",
+    "employer": "Halcyon Knights",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87978351",
+    "title": "F5 WAF Designer \u2013 NV1 security cleared",
+    "listing_date": "2025-10-20T06:37:05+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Green Light",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87978270",
+    "title": "Senior Planner Operational Technology",
+    "listing_date": "2025-10-20T06:35:07+00:00",
+    "location": "Leederville, Perth WA",
+    "employer": "Water Corporation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978234",
+    "title": "Senior Systems Officer - Predictions",
+    "listing_date": "2025-10-20T06:34:15+00:00",
+    "location": "Kedron, Brisbane QLD",
+    "employer": "Queensland Fire Department",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87978081",
+    "title": "Manager Data Platforms",
+    "listing_date": "2025-10-20T06:29:10+00:00",
+    "location": "Leederville, Perth WA",
+    "employer": "Water Corporation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87977581",
+    "title": "Data Developer",
+    "listing_date": "2025-10-20T06:13:42+00:00",
+    "location": "Chatswood, Sydney NSW",
+    "employer": "Fyndr Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87977566",
+    "title": "Windows Engineer",
+    "listing_date": "2025-10-20T06:13:14+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Exclaim IT",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87977440",
+    "title": "Application Support Engineer",
+    "listing_date": "2025-10-20T06:10:27+00:00",
+    "location": "Surry Hills, Sydney NSW",
+    "employer": "InLoop Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87977271",
+    "title": "TSPV / Positive Vetting Contracts",
+    "listing_date": "2025-10-20T06:04:06+00:00",
+    "location": "Canberra ACT",
+    "employer": "Allura Partners",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87977054",
+    "title": "Senior Cloud Security Engineer",
+    "listing_date": "2025-10-20T05:58:32+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Decipher Bureau",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87977000",
+    "title": "Engineering Lead - Sydney (Remote East Coast) - SaaS Healthcare",
+    "listing_date": "2025-10-20T05:57:04+00:00",
+    "location": "Sydney NSW",
+    "employer": "Opus Recruitment Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976917",
+    "title": "Automation Developer",
+    "listing_date": "2025-10-20T05:54:57+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talent International",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976791",
+    "title": "Senior Data Scientist - AI & NLP",
+    "listing_date": "2025-10-20T05:51:06+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Correlate Resources",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976789",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-20T05:51:04+00:00",
+    "location": "Sydney NSW",
+    "employer": "Calleo",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87976761",
+    "title": "Cloud Technical Analyst",
+    "listing_date": "2025-10-20T05:50:10+00:00",
+    "location": "Osborne Park, Perth WA",
+    "employer": "Department of Housing and Works WA",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976866",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-20T05:48:04+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Nine",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976835",
+    "title": "Technical Simulation Officer",
+    "listing_date": "2025-10-20T05:47:19+00:00",
+    "location": "Cairns, Cairns & Far North QLD",
+    "employer": "CQUniversity",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976749",
+    "title": "Technical Lead, Machine Learning Engineering",
+    "listing_date": "2025-10-20T05:44:48+00:00",
+    "location": "Melbourne VIC",
+    "employer": "carsales",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976681",
+    "title": "Senior Systems Officer - Predictions",
+    "listing_date": "2025-10-20T05:41:41+00:00",
+    "location": "Queensland",
+    "employer": "Queensland State Emergency Service",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976680",
+    "title": "Graduate Cloud Engineering, Melbourne",
+    "listing_date": "2025-10-20T05:41:36+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Nexon Asia Pacific",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976467",
+    "title": "Software Developer (Specialist) - ICT",
+    "listing_date": "2025-10-20T05:39:04+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Hudson",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976440",
+    "title": "Backend Software Engineer",
+    "listing_date": "2025-10-20T05:33:03+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Art Processors",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976184",
+    "title": "DevOps Engineer",
+    "listing_date": "2025-10-20T05:29:34+00:00",
+    "location": "Sydney NSW",
+    "employer": "Clicks IT Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87976177",
+    "title": "Director, Solution EngineeringNew",
+    "listing_date": "2025-10-20T05:24:20+00:00",
+    "location": "Sydney NSW",
+    "employer": "Appian Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87975911",
+    "title": "Senior Data Scientist - AI & NLP",
+    "listing_date": "2025-10-20T05:19:29+00:00",
+    "location": "Sydney NSW",
+    "employer": "Correlate Resources",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87975893",
+    "title": "Senior Developer",
+    "listing_date": "2025-10-20T05:18:50+00:00",
+    "location": "Toowong, Brisbane QLD",
+    "employer": "Auto & General",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87975804",
+    "title": "Systems & Infrastructure Engineer",
+    "listing_date": "2025-10-20T05:15:23+00:00",
+    "location": "Mascot, Sydney NSW",
+    "employer": "APG & Co",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87975765",
+    "title": "Solutions Architect",
+    "listing_date": "2025-10-20T05:14:13+00:00",
+    "location": "Parkes, Canberra ACT",
+    "employer": "Recruitment Hive",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87975726",
+    "title": "Dynamics CRM Developer (Analyst Programmer)",
+    "listing_date": "2025-10-20T05:13:03+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Federation University Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87975387",
+    "title": "infrastructure Lead",
+    "listing_date": "2025-10-20T05:01:07+00:00",
+    "location": "Sydney NSW",
+    "employer": "Aurec Group",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87975385",
+    "title": "Senior Infrastructure Engineer",
+    "listing_date": "2025-10-20T05:01:06+00:00",
+    "location": "Canberra ACT",
+    "employer": "Whizdom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974998",
+    "title": "Director- Systems Integration",
+    "listing_date": "2025-10-20T04:46:51+00:00",
+    "location": "Brisbane QLD",
+    "employer": "4impact",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87974860",
+    "title": "Google Cloud Platform \u2013 Technical Lead",
+    "listing_date": "2025-10-20T04:41:50+00:00",
+    "location": "Canberra ACT",
+    "employer": "Department of Health Disability & Ageing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974859",
+    "title": "Google Cloud Platform \u2013 Technical Lead",
+    "listing_date": "2025-10-20T04:41:49+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Department of Health Disability & Ageing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974858",
+    "title": "Google Cloud Platform \u2013 Technical Lead",
+    "listing_date": "2025-10-20T04:41:47+00:00",
+    "location": "Adelaide SA",
+    "employer": "Department of Health Disability & Ageing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974856",
+    "title": "Google Cloud Platform \u2013 Technical Lead",
+    "listing_date": "2025-10-20T04:41:45+00:00",
+    "location": "Sydney NSW",
+    "employer": "Department of Health Disability & Ageing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974853",
+    "title": "Cloud Networking & Security Engineer",
+    "listing_date": "2025-10-20T04:41:36+00:00",
+    "location": "Sydney NSW",
+    "employer": "I-MED Radiology Network",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974825",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-20T04:40:44+00:00",
+    "location": "Cannon Hill, Brisbane QLD",
+    "employer": "Raytheon Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974701",
+    "title": "Transmission Core Technical Specialist, Carrier Ethernet",
+    "listing_date": "2025-10-20T04:36:08+00:00",
+    "location": "Sydney NSW",
+    "employer": "Talent International",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974578",
+    "title": "Senior Solutions Support Engineer",
+    "listing_date": "2025-10-20T04:32:18+00:00",
+    "location": "Adelaide SA",
+    "employer": "Unilink Software -Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974368",
+    "title": "Application Support Engineer",
+    "listing_date": "2025-10-20T04:24:39+00:00",
+    "location": "Melbourne VIC",
+    "employer": "NHP Electrical Engineering Products",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974282",
+    "title": "Systems Engineer (Banking)",
+    "listing_date": "2025-10-20T04:21:51+00:00",
+    "location": "Hawthorn East, Melbourne VIC",
+    "employer": "Bank First",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87974216",
+    "title": "Data and AI Technical Specialist",
+    "listing_date": "2025-10-20T04:20:07+00:00",
+    "location": "Canberra ACT",
+    "employer": "DFP Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87974166",
+    "title": "Engineering Manager (Java & React)",
+    "listing_date": "2025-10-20T04:18:29+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Davidson Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87974062",
+    "title": "ICT Lead",
+    "listing_date": "2025-10-20T04:08:37+00:00",
+    "location": "Edinburgh, Adelaide SA",
+    "employer": "BAE Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87973825",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-20T04:07:51+00:00",
+    "location": "Sydney NSW",
+    "employer": "SustainRecruit",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87973773",
+    "title": "Elite Systems Performance Engineer \u2013 Trading Innovation",
+    "listing_date": "2025-10-20T04:06:35+00:00",
+    "location": "Sydney NSW",
+    "employer": "Westbury Partners",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87972854",
+    "title": "Data Architect",
+    "listing_date": "2025-10-20T03:43:17+00:00",
+    "location": "Canberra ACT",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87972749",
+    "title": "IT Level 1 Engineer",
+    "listing_date": "2025-10-20T03:40:56+00:00",
+    "location": "Dulwich, Adelaide SA",
+    "employer": "Blackbird IT",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87972567",
+    "title": "MLOps Data Scientist",
+    "listing_date": "2025-10-20T03:35:56+00:00",
+    "location": "Canberra ACT",
+    "employer": "Recruitment Hive",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87972711",
+    "title": "Senior Director - Software Engineering",
+    "listing_date": "2025-10-20T03:34:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "Cotality",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87972189",
+    "title": "Field Service Engineer",
+    "listing_date": "2025-10-20T03:26:53+00:00",
+    "location": "Ridgeway, Hobart TAS",
+    "employer": "Leidos",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87971623",
+    "title": "Senior Technical Field Engineer",
+    "listing_date": "2025-10-20T03:17:32+00:00",
+    "location": "Adelaide SA",
+    "employer": "Unisys",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87971677",
+    "title": "Intergration Engineering Team Lead",
+    "listing_date": "2025-10-20T03:15:32+00:00",
+    "location": "Adelaide SA",
+    "employer": "Babcock International Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87970998",
+    "title": "Data Analyst / Engineer",
+    "listing_date": "2025-10-20T03:08:12+00:00",
+    "location": "Sydney NSW",
+    "employer": "Tallentire O'Flynn Movsowitz",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87971382",
+    "title": "Lead Data Engineer - Databricks",
+    "listing_date": "2025-10-20T03:06:44+00:00",
+    "location": "Melbourne VIC",
+    "employer": "FourQuarters Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87971336",
+    "title": "Data Engineering Lead - AWS, Snowflake",
+    "listing_date": "2025-10-20T03:05:26+00:00",
+    "location": "Melbourne VIC",
+    "employer": "FourQuarters Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87971318",
+    "title": "Senior Engineer IT Infrastructure",
+    "listing_date": "2025-10-20T03:05:12+00:00",
+    "location": "Kwinana Beach, Perth WA",
+    "employer": "Tianqi Lithium Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87969813",
+    "title": "Senior Systems Integrator",
+    "listing_date": "2025-10-20T02:26:53+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Thales",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87969695",
+    "title": "AI Prompt Engineer",
+    "listing_date": "2025-10-20T02:23:41+00:00",
+    "location": "Sydney NSW",
+    "employer": "Salt",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87969610",
+    "title": "Integration Engineer",
+    "listing_date": "2025-10-20T02:20:25+00:00",
+    "location": "East Melbourne, Melbourne VIC",
+    "employer": "Melbourne Archdiocese Catholic Schools",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87969428",
+    "title": "SAS Data Engineer",
+    "listing_date": "2025-10-20T02:14:47+00:00",
+    "location": "Richmond, Melbourne VIC",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87969149",
+    "title": "Senior Network Analytics Engineer",
+    "listing_date": "2025-10-20T02:05:47+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Jemena",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87968782",
+    "title": "Brooks Engineering Summer Intern Program",
+    "listing_date": "2025-10-20T01:54:44+00:00",
+    "location": "Virginia, Brisbane QLD",
+    "employer": "Brooks Automation",
+    "work_type": "Casual/Vacation"
+  },
+  {
+    "job_id": "87968675",
+    "title": "Senior/Lead Power Systems Engineer",
+    "listing_date": "2025-10-20T01:50:44+00:00",
+    "location": "Perth WA",
+    "employer": "APD Global",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87968191",
+    "title": "Data Scientist",
+    "listing_date": "2025-10-20T01:38:07+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Future Secure AI",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87968169",
+    "title": "Staff / Lead ServiceNow Engineer (Portal Experience)",
+    "listing_date": "2025-10-20T01:37:18+00:00",
+    "location": "Melbourne VIC",
+    "employer": "CommBank",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87968072",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-20T01:33:30+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Future Secure AI",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967885",
+    "title": "Senior Manager Intelligent Automation Engineering",
+    "listing_date": "2025-10-20T01:28:15+00:00",
+    "location": "Sydney NSW",
+    "employer": "Procensol Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967874",
+    "title": "Data Scientist",
+    "listing_date": "2025-10-20T01:27:47+00:00",
+    "location": "Sydney NSW",
+    "employer": "Future Secure AI",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967780",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-20T01:24:52+00:00",
+    "location": "Sydney NSW",
+    "employer": "Future Secure AI",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967795",
+    "title": "AWS Platform Engineer",
+    "listing_date": "2025-10-20T01:24:50+00:00",
+    "location": "Sydney NSW",
+    "employer": "Talenza",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967645",
+    "title": "Azure Devops Engineer",
+    "listing_date": "2025-10-20T01:19:14+00:00",
+    "location": "Sydney NSW",
+    "employer": "Ethan Talent",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87967622",
+    "title": "Workflow Systems Developer",
+    "listing_date": "2025-10-20T01:18:04+00:00",
+    "location": "Canberra ACT",
+    "employer": "Peoplebank",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87967310",
+    "title": "Platform Engineer - tech unicorn",
+    "listing_date": "2025-10-20T01:07:09+00:00",
+    "location": "Sydney NSW",
+    "employer": "Talenza",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87967255",
+    "title": "Delta V - Control Systems Engineer - Long Term Contract",
+    "listing_date": "2025-10-20T01:05:24+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Embedded Expertise",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87967210",
+    "title": "Solution Architect - LH - 04862",
+    "listing_date": "2025-10-20T01:03:45+00:00",
+    "location": "Canberra ACT",
+    "employer": "Hays Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87966919",
+    "title": "Enterprise Architect",
+    "listing_date": "2025-10-20T00:52:31+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Dyno Nobel",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966906",
+    "title": "Staff Engineer",
+    "listing_date": "2025-10-20T00:51:58+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Pointsbet",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966773",
+    "title": "Cloud Engineer",
+    "listing_date": "2025-10-20T00:47:54+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Spectur Limited",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966760",
+    "title": "Production Support Lead",
+    "listing_date": "2025-10-20T00:45:33+00:00",
+    "location": "Sydney NSW",
+    "employer": "Robert Walters",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966733",
+    "title": "Machine Learning /Data Engineer",
+    "listing_date": "2025-10-20T00:44:25+00:00",
+    "location": "Richmond, Melbourne VIC",
+    "employer": "7 Eleven",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966631",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-20T00:39:22+00:00",
+    "location": "Edinburgh, Adelaide SA",
+    "employer": "Rheinmetall Defence Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966387",
+    "title": "Senior Machine Learning Engineer",
+    "listing_date": "2025-10-20T00:28:06+00:00",
+    "location": "Edinburgh, Adelaide SA",
+    "employer": "Rheinmetall Defence Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966361",
+    "title": "Automation Engineer",
+    "listing_date": "2025-10-20T00:27:05+00:00",
+    "location": "Spring Hill, Blue Mountains & Central West NSW",
+    "employer": "Endeavour Energy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966306",
+    "title": "Verification & Validation Engineer",
+    "listing_date": "2025-10-20T00:25:47+00:00",
+    "location": "Mawson Lakes, Adelaide SA",
+    "employer": "Lockheed Martin",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966311",
+    "title": "IT infrastructure Egnineer - DBA/MW (korean speaking)",
+    "listing_date": "2025-10-20T00:25:31+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "Hyundai AutoEver",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966164",
+    "title": "Infrastructure Engineer",
+    "listing_date": "2025-10-20T00:18:24+00:00",
+    "location": "Sydney NSW",
+    "employer": "Allura Partners",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87966102",
+    "title": "Senior AI Risk & Governance Specialist",
+    "listing_date": "2025-10-20T00:14:41+00:00",
+    "location": "Melbourne VIC",
+    "employer": "SMC Executive",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965775",
+    "title": "Robotics Controls Engineer (Production Engineer- Automation & Controls)",
+    "listing_date": "2025-10-20T00:00:45+00:00",
+    "location": "Silverwater, Sydney NSW",
+    "employer": "Applied Robotics",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965710",
+    "title": "Electronics System Engineeer DFMEA",
+    "listing_date": "2025-10-19T23:55:40+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Engineering Networks",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965497",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-19T23:44:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "Bluefin Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87965314",
+    "title": "Platform Engineer - Sydney",
+    "listing_date": "2025-10-19T23:34:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "Change Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965010",
+    "title": "ITMS Engineer - Team Lead",
+    "listing_date": "2025-10-19T23:25:39+00:00",
+    "location": "Wollongong, Wollongong, Illawarra & South Coast NSW",
+    "employer": "Ericom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965158",
+    "title": "Senior Network Engineer",
+    "listing_date": "2025-10-19T23:23:56+00:00",
+    "location": "Parramatta, Sydney NSW",
+    "employer": "NSW Police Force",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87965043",
+    "title": "Lead Systems Engineer",
+    "listing_date": "2025-10-19T23:20:00+00:00",
+    "location": "Mawson Lakes, Adelaide SA",
+    "employer": "Lockheed Martin",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87965005",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-19T23:16:45+00:00",
+    "location": "Sydney NSW",
+    "employer": "Australian Institute of Company Directors",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964945",
+    "title": "Release Engineer",
+    "listing_date": "2025-10-19T23:13:37+00:00",
+    "location": "Sydney NSW",
+    "employer": "ISOFT Software Technologies",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964936",
+    "title": "Data Architect and Tech Lead",
+    "listing_date": "2025-10-19T23:13:07+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Expose",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964896",
+    "title": "Software Engineer( Machine Learning)",
+    "listing_date": "2025-10-19T23:10:01+00:00",
+    "location": "Sydney NSW",
+    "employer": "Woolworths Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964587",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-19T22:57:50+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Boeing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964529",
+    "title": "Data Operations Engineer",
+    "listing_date": "2025-10-19T22:54:27+00:00",
+    "location": "Sydney NSW",
+    "employer": "Australian Institute of Company Directors",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964321",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-19T22:42:40+00:00",
+    "location": "Southbank, Melbourne VIC",
+    "employer": "JB Hi-Fi",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964079",
+    "title": "Project Engineer - FMCG",
+    "listing_date": "2025-10-19T22:28:11+00:00",
+    "location": "Scoresby, Melbourne VIC",
+    "employer": "Brunel",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87963728",
+    "title": "Senior Developer",
+    "listing_date": "2025-10-19T22:07:37+00:00",
+    "location": "Canberra ACT",
+    "employer": "Australian Department of Agriculture, Fisheries and Forestry",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963716",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-19T22:06:37+00:00",
+    "location": "Sydney NSW",
+    "employer": "Nuage Technology Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963554",
+    "title": "Manager, Data Engineer (12 Month FTC)",
+    "listing_date": "2025-10-19T21:57:55+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Acenda",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87963523",
+    "title": "AI Transformation Lead",
+    "listing_date": "2025-10-19T21:56:08+00:00",
+    "location": "Box Hill, Melbourne VIC",
+    "employer": "Careers in Demand",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963513",
+    "title": "Power Platform Developer",
+    "listing_date": "2025-10-19T21:54:49+00:00",
+    "location": "Sydney NSW",
+    "employer": "Perpetual",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963464",
+    "title": "Head of Architecture and Security Solutions",
+    "listing_date": "2025-10-19T21:50:23+00:00",
+    "location": "Perth WA",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963463",
+    "title": "Head of Architecture and Security Solutions",
+    "listing_date": "2025-10-19T21:50:21+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963462",
+    "title": "Head of Architecture and Security Solutions",
+    "listing_date": "2025-10-19T21:50:19+00:00",
+    "location": "Sydney NSW",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963394",
+    "title": "Service Desk Engineer",
+    "listing_date": "2025-10-19T21:44:15+00:00",
+    "location": "Bowen Hills, Brisbane QLD",
+    "employer": "Deployus",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87963315",
+    "title": "Principal Engineer - ICT/ELV",
+    "listing_date": "2025-10-19T21:30:07+00:00",
+    "location": "Sydney NSW",
+    "employer": "Mission Critical Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87962649",
+    "title": "AI Business Consultant",
+    "listing_date": "2025-10-19T18:18:16+00:00",
+    "location": "Sydney NSW",
+    "employer": "NICE Systems Australia Pty Limited",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87962613",
+    "title": "Graduate Data Engineer",
+    "listing_date": "2025-10-19T17:45:05+00:00",
+    "location": "Wollongong, Wollongong, Illawarra & South Coast NSW",
+    "employer": "IRT Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87962088",
+    "title": "AEM Lead",
+    "listing_date": "2025-10-19T12:48:42+00:00",
+    "location": "Sydney NSW",
+    "employer": "Virtusa",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87964519",
+    "title": "Principal Engineer, Data",
+    "listing_date": "2025-10-19T11:00:00+00:00",
+    "location": "Richmond, Melbourne VIC",
+    "employer": "REA Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87961629",
+    "title": "Junior Building Automation Technician",
+    "listing_date": "2025-10-19T10:12:45+00:00",
+    "location": "Balcatta, Perth WA",
+    "employer": "Lynx Integrated Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87961221",
+    "title": "Data Analyst",
+    "listing_date": "2025-10-19T08:44:51+00:00",
+    "location": "Sydney NSW",
+    "employer": "TEKsystems",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87960917",
+    "title": "Data Engineer - Fabric",
+    "listing_date": "2025-10-19T07:07:11+00:00",
+    "location": "Sydney NSW",
+    "employer": "FourQuarters Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87960813",
+    "title": "Data & Reporting Test Engineer",
+    "listing_date": "2025-10-19T06:33:36+00:00",
+    "location": "Sydney NSW",
+    "employer": "FourQuarters Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87960206",
+    "title": "Graduate Network Engineer",
+    "listing_date": "2025-10-19T03:32:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "27BC Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87960006",
+    "title": "Windows Engineer",
+    "listing_date": "2025-10-19T02:03:07+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talenza",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87959927",
+    "title": "HR Recruiter (Tech Talent Acquisition) \u2013 Cybersecurity, AI & Data Science",
+    "listing_date": "2025-10-19T01:37:32+00:00",
+    "location": "Narre Warren, Melbourne VIC",
+    "employer": "Suraksha",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87959890",
+    "title": "Senior Product Manager - AI Research (Relocate to Australia)",
+    "listing_date": "2025-10-19T01:14:57+00:00",
+    "location": "Sydney NSW",
+    "employer": "Canva",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87959800",
+    "title": "Staff Application Security EngineerNew",
+    "listing_date": "2025-10-19T00:50:22+00:00",
+    "location": "Sydney NSW",
+    "employer": "Culture Amp",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87959799",
+    "title": "Staff Application Security EngineerNew",
+    "listing_date": "2025-10-19T00:50:21+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Culture Amp",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87959782",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-19T00:48:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Onset",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87957409",
+    "title": "Senior Data & Integration Specialist",
+    "listing_date": "2025-10-18T10:21:28+00:00",
+    "location": "North Ryde, Sydney NSW",
+    "employer": "MQ Health",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87954340",
+    "title": "Senior Business Systems Analyst - China User Support Experience",
+    "listing_date": "2025-10-18T00:48:53+00:00",
+    "location": "Sydney NSW",
+    "employer": "Canva",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87953846",
+    "title": "Home Automation Programmer",
+    "listing_date": "2025-10-17T23:15:18+00:00",
+    "location": "Sydney NSW",
+    "employer": "GreenElec",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87953402",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-17T21:53:05+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Bluefin Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87952632",
+    "title": "Senior Software Engineer (Python & Django)",
+    "listing_date": "2025-10-17T18:54:20+00:00",
+    "location": "Sydney NSW",
+    "employer": "Cover Genius",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87952515",
+    "title": "Software Engineer II",
+    "listing_date": "2025-10-17T18:09:45+00:00",
+    "location": "South Yarra, Melbourne VIC",
+    "employer": "Vivi International Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87952056",
+    "title": "Software Engineer III, Mobile (iOS)",
+    "listing_date": "2025-10-17T17:12:28+00:00",
+    "location": "Sydney NSW",
+    "employer": "Google",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87952053",
+    "title": "Software Engineer II, Mobile (iOS)",
+    "listing_date": "2025-10-17T17:12:18+00:00",
+    "location": "Sydney NSW",
+    "employer": "Google",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87951668",
+    "title": "Technical Risk Advisor - AI - Senior Specialist",
+    "listing_date": "2025-10-17T12:00:00+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Vanguard Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87951195",
+    "title": "Machine Learning Engineer",
+    "listing_date": "2025-10-17T12:00:00+00:00",
+    "location": "Canberra ACT",
+    "employer": "Seeing Machines",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87949529",
+    "title": "Combat Systems Undersea/Electronics Warfare Systems Technician",
+    "listing_date": "2025-10-17T11:42:50+00:00",
+    "location": "Mawson Lakes, Adelaide SA",
+    "employer": "Saab",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87952464",
+    "title": "Data Scientist - Customer Analytics",
+    "listing_date": "2025-10-17T11:25:46+00:00",
+    "location": "Sydney NSW",
+    "employer": "Rokt",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87949342",
+    "title": "Full-stack EngineerNew",
+    "listing_date": "2025-10-17T11:16:49+00:00",
+    "location": "Sydney NSW",
+    "employer": "Karbon",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87948819",
+    "title": "Engineering Manager",
+    "listing_date": "2025-10-17T10:37:23+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Nine",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87948753",
+    "title": "GTM Automation Engineer",
+    "listing_date": "2025-10-17T10:33:50+00:00",
+    "location": "Sydney NSW",
+    "employer": "UpGuard",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87948702",
+    "title": "Senior Platform and DevOps Engineer",
+    "listing_date": "2025-10-17T10:30:37+00:00",
+    "location": "Sydney NSW",
+    "employer": "Luxury Escapes",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87953342",
+    "title": "Agentic Data Specialist",
+    "listing_date": "2025-10-17T10:30:00+00:00",
+    "location": "Sydney NSW",
+    "employer": "MuleSoft",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87947481",
+    "title": "Pega LSA Certified Architect - Melbourne",
+    "listing_date": "2025-10-17T09:37:47+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Ayan Infotech",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87946865",
+    "title": "Data Eng, Mgmt & Governance Manager",
+    "listing_date": "2025-10-17T09:13:03+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Accenture",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87944095",
+    "title": "Senior Identity Analyst",
+    "listing_date": "2025-10-17T07:34:30+00:00",
+    "location": "Sydney NSW",
+    "employer": "REST Industry Super",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87943692",
+    "title": "Senior AI Solution Engineer",
+    "listing_date": "2025-10-17T07:26:52+00:00",
+    "location": "Sydney NSW",
+    "employer": "Fyndr Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87943532",
+    "title": "AI Solution Engineer",
+    "listing_date": "2025-10-17T07:21:15+00:00",
+    "location": "Sydney NSW",
+    "employer": "Fyndr Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87943344",
+    "title": "Data Solution Architect",
+    "listing_date": "2025-10-17T07:14:18+00:00",
+    "location": "Sydney NSW",
+    "employer": "FinXL IT Professional Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87943093",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-17T07:07:02+00:00",
+    "location": "Sydney NSW",
+    "employer": "FinXL IT Professional Services",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87942764",
+    "title": "Pega Senior System Architect",
+    "listing_date": "2025-10-17T06:59:21+00:00",
+    "location": "Sydney NSW",
+    "employer": "Virtusa",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87942720",
+    "title": "Senior Application Specialist",
+    "listing_date": "2025-10-17T06:58:59+00:00",
+    "location": "Booragoon, Perth WA",
+    "employer": "City of Melville",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87942129",
+    "title": "Software Implementation Consultant",
+    "listing_date": "2025-10-17T06:47:27+00:00",
+    "location": "Sydney NSW",
+    "employer": "Fyndr Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87942010",
+    "title": "Senior Network Engineer",
+    "listing_date": "2025-10-17T06:44:41+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Hollard Insurance",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87941908",
+    "title": "Network Solution Architect - Cisco, Juniper, Federal Govt",
+    "listing_date": "2025-10-17T06:40:50+00:00",
+    "location": "Adelaide SA",
+    "employer": "HiTech Personnel",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87941666",
+    "title": "Azure Cloud Solutions Engineer / Architect",
+    "listing_date": "2025-10-17T06:33:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Whizdom",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87941439",
+    "title": "BI Developer",
+    "listing_date": "2025-10-17T06:27:48+00:00",
+    "location": "Seven Hills, Sydney NSW",
+    "employer": "Kennards Hire",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87941429",
+    "title": "Renewables Engineer - Hybrid Systems",
+    "listing_date": "2025-10-17T06:27:28+00:00",
+    "location": "Perth WA",
+    "employer": "GHD Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87941368",
+    "title": "Senior Development Engineer (Automotive)",
+    "listing_date": "2025-10-17T06:26:05+00:00",
+    "location": "Airport West, Melbourne VIC",
+    "employer": "Veritas Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87940778",
+    "title": "Network Solution Architect - Federal Government Client",
+    "listing_date": "2025-10-17T06:15:49+00:00",
+    "location": "Edinburgh, Adelaide SA",
+    "employer": "1 and One Consulting",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87940687",
+    "title": "Principal Data Engineer",
+    "listing_date": "2025-10-17T06:08:12+00:00",
+    "location": "Sydney NSW",
+    "employer": "Deputy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87940424",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-17T06:06:08+00:00",
+    "location": "Mawson Lakes, Adelaide SA",
+    "employer": "Raytheon Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87940410",
+    "title": "Azure Engineer",
+    "listing_date": "2025-10-17T06:05:29+00:00",
+    "location": "Seven Hills, Sydney NSW",
+    "employer": "Grace Worldwide",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87939900",
+    "title": "Data Centre Senior Primary Assets Engineer",
+    "listing_date": "2025-10-17T05:54:51+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Jemena",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87939481",
+    "title": "Graduate Developer",
+    "listing_date": "2025-10-17T05:41:00+00:00",
+    "location": "Forest Hill, Melbourne VIC",
+    "employer": "Pronto Software",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87939455",
+    "title": "ICT Engineer",
+    "listing_date": "2025-10-17T05:39:42+00:00",
+    "location": "Canberra ACT",
+    "employer": "Honeywell",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87939013",
+    "title": "Data and Integration Officer",
+    "listing_date": "2025-10-17T05:26:27+00:00",
+    "location": "Brisbane QLD",
+    "employer": "LifeFlight Australia",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87938854",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-17T05:21:33+00:00",
+    "location": "Coolangatta, Gold Coast QLD",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938853",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-17T05:21:33+00:00",
+    "location": "Lismore, Lismore & Far North Coast NSW",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938852",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-17T05:21:32+00:00",
+    "location": "Coffs Harbour, Coffs Harbour & North Coast NSW",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87837423",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-17T05:20:12+00:00",
+    "location": "Sydney NSW",
+    "employer": "Synechron",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938695",
+    "title": "R&D Engineer \u2013 Mechatronics",
+    "listing_date": "2025-10-17T05:17:26+00:00",
+    "location": "Fyshwick, Canberra ACT",
+    "employer": "Boresight Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938679",
+    "title": "Senior Cloud Engineer",
+    "listing_date": "2025-10-17T05:16:22+00:00",
+    "location": "Port Melbourne, Melbourne VIC",
+    "employer": "Robert Half",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87938464",
+    "title": "Data Scientist",
+    "listing_date": "2025-10-17T05:12:03+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Alfred Health",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87938461",
+    "title": "Infrastructure Solution Architect",
+    "listing_date": "2025-10-17T05:11:58+00:00",
+    "location": "Sydney NSW",
+    "employer": "Talent International",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938225",
+    "title": "Cyber Security Engineer (OT)",
+    "listing_date": "2025-10-17T05:05:02+00:00",
+    "location": "Brisbane QLD",
+    "employer": "NTT",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87937961",
+    "title": "Chief of Staff, Software Engineering",
+    "listing_date": "2025-10-17T05:01:27+00:00",
+    "location": "Essendon Fields, Melbourne VIC",
+    "employer": "Elenium Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938060",
+    "title": "Compliance Systems and Data Analyst",
+    "listing_date": "2025-10-17T04:59:45+00:00",
+    "location": "Cairns, Cairns & Far North QLD",
+    "employer": "Great Barrier Reef Marine Park Authority",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938058",
+    "title": "Compliance Systems and Data Analyst",
+    "listing_date": "2025-10-17T04:59:37+00:00",
+    "location": "Townsville, Northern QLD",
+    "employer": "Great Barrier Reef Marine Park Authority",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87938047",
+    "title": "IT Manager",
+    "listing_date": "2025-10-17T04:59:19+00:00",
+    "location": "Sydney NSW",
+    "employer": "Aurora Education Foundation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937990",
+    "title": "Senior Full Stack Developer",
+    "listing_date": "2025-10-17T04:57:37+00:00",
+    "location": "Bondi Junction, Sydney NSW",
+    "employer": "White Bay Search",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937957",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-17T04:56:31+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Alfred Health",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87937808",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-17T04:51:54+00:00",
+    "location": "Sydney NSW",
+    "employer": "FourQuarters Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937684",
+    "title": "Power Systems Engineer",
+    "listing_date": "2025-10-17T04:48:53+00:00",
+    "location": "Sydney NSW",
+    "employer": "ACRWORLD",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937406",
+    "title": "Software Engineer - Front End Focus",
+    "listing_date": "2025-10-17T04:42:06+00:00",
+    "location": "Perth WA",
+    "employer": "Opus Recruitment Solutions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937402",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-17T04:42:01+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Tech & Data People",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937213",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-17T04:36:02+00:00",
+    "location": "Banyo, Brisbane QLD",
+    "employer": "Compnow",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937144",
+    "title": "Controls Engineer",
+    "listing_date": "2025-10-17T04:34:15+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Diverseco",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87937120",
+    "title": "Storage Engineer",
+    "listing_date": "2025-10-17T04:33:15+00:00",
+    "location": "Canberra ACT",
+    "employer": "Akkodis",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87937092",
+    "title": "Software Engineer - API Systems & Gen AI",
+    "listing_date": "2025-10-17T04:32:08+00:00",
+    "location": "Sydney NSW",
+    "employer": "Tabcorp",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936959",
+    "title": "Lead Data Scientist",
+    "listing_date": "2025-10-17T04:29:57+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Tech & Data People",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936957",
+    "title": "Governance & Support Specialist",
+    "listing_date": "2025-10-17T04:29:55+00:00",
+    "location": "Osborne, Adelaide SA",
+    "employer": "ASC",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936956",
+    "title": "Governance & Support Specialist",
+    "listing_date": "2025-10-17T04:29:55+00:00",
+    "location": "Osborne, Adelaide SA",
+    "employer": "ASC",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936822",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-17T04:21:05+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936792",
+    "title": "Change Control Engineer",
+    "listing_date": "2025-10-17T04:20:14+00:00",
+    "location": "Sydney NSW",
+    "employer": "Anduril",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936595",
+    "title": "Senior Cloud Engineer",
+    "listing_date": "2025-10-17T04:19:45+00:00",
+    "location": "Sydney NSW",
+    "employer": "JobAdder",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87936533",
+    "title": "Senior AI Engineer role / GenAI / LLM's / ML / Melbourne / Permanent",
+    "listing_date": "2025-10-17T04:17:23+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Allura Partners",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936401",
+    "title": "Assistive Technology Specialist",
+    "listing_date": "2025-10-17T04:13:04+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Deakin University",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87936261",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-17T04:09:17+00:00",
+    "location": "Downer, Canberra ACT",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936173",
+    "title": "Project Manager \u2013 Data & Insights",
+    "listing_date": "2025-10-17T04:06:51+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Meat & Livestock Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936110",
+    "title": "IT and Cybersecurity Engineer - Electrical Construction",
+    "listing_date": "2025-10-17T04:05:22+00:00",
+    "location": "Sydney NSW",
+    "employer": "Acciona",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87936023",
+    "title": "Data Operations Engineer",
+    "listing_date": "2025-10-17T04:03:03+00:00",
+    "location": "Sydney NSW",
+    "employer": "M&T Resources",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935946",
+    "title": "Senior Generative / Gen AI Engineer",
+    "listing_date": "2025-10-17T04:01:09+00:00",
+    "location": "Sydney NSW",
+    "employer": "NCS Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935880",
+    "title": "Senior IT Support Engineer \u2013 Microsoft & Cloud Environment",
+    "listing_date": "2025-10-17T03:59:42+00:00",
+    "location": "Surry Hills, Sydney NSW",
+    "employer": "The Royal College of Pathologists of Australasia",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87935852",
+    "title": "Cyber Security Analyst",
+    "listing_date": "2025-10-17T03:59:00+00:00",
+    "location": "Murarrie, Brisbane QLD",
+    "employer": "3 Logix",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935634",
+    "title": "Lead Data Developer",
+    "listing_date": "2025-10-17T03:53:27+00:00",
+    "location": "Canberra ACT",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87935533",
+    "title": "Senior Generative / Gen AI Engineer (Sydney Based)",
+    "listing_date": "2025-10-17T03:50:39+00:00",
+    "location": "Brisbane QLD",
+    "employer": "NCS Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935534",
+    "title": "Senior Generative / Gen AI Engineer (Sydney Based)",
+    "listing_date": "2025-10-17T03:50:39+00:00",
+    "location": "Melbourne VIC",
+    "employer": "NCS Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935228",
+    "title": "Network Engineer (SA)",
+    "listing_date": "2025-10-17T03:44:01+00:00",
+    "location": "Adelaide SA",
+    "employer": "Chamonix IT Consulting",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935189",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-17T03:43:29+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Education Perfect",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87935015",
+    "title": "Senior Data Scientist",
+    "listing_date": "2025-10-17T03:39:17+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talenza",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87934326",
+    "title": "Data Platform Engineer",
+    "listing_date": "2025-10-17T03:23:47+00:00",
+    "location": "Perth WA",
+    "employer": "Michael Page",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87972706",
+    "title": "Senior Director - Data & Analytics Engineering",
+    "listing_date": "2025-10-17T03:19:33+00:00",
+    "location": "Sydney NSW",
+    "employer": "Cotality",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87933516",
+    "title": "Data Observability Engineer NV1",
+    "listing_date": "2025-10-17T03:06:16+00:00",
+    "location": "Canberra ACT",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87933301",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-17T03:01:35+00:00",
+    "location": "Coffs Harbour, Coffs Harbour & North Coast NSW",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87933302",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-17T03:01:33+00:00",
+    "location": "Coolangatta, Gold Coast QLD",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87933300",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-17T03:01:33+00:00",
+    "location": "Lismore, Lismore & Far North Coast NSW",
+    "employer": "Southern Cross University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87933129",
+    "title": "Senior Systems Engineer / Senior Systems Analyst / Senior Systems Administrator",
+    "listing_date": "2025-10-17T02:58:00+00:00",
+    "location": "Oxford Falls, Sydney NSW",
+    "employer": "Private Advertiser",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87932460",
+    "title": "SAP Analytics Cloud Planning Developer",
+    "listing_date": "2025-10-17T02:43:52+00:00",
+    "location": "Canberra ACT",
+    "employer": "CSIRO",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87932454",
+    "title": "SAP Analytics Cloud Planning Developer",
+    "listing_date": "2025-10-17T02:43:49+00:00",
+    "location": "Sydney NSW",
+    "employer": "CSIRO",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87874188",
+    "title": "Support and Development Technician, IoT Software Engineer",
+    "listing_date": "2025-10-17T02:43:49+00:00",
+    "location": "Adelaide SA",
+    "employer": "Thylation Operations Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87932348",
+    "title": "Firmware Tester (Melbourne Based)",
+    "listing_date": "2025-10-17T02:40:57+00:00",
+    "location": "Dandenong, Melbourne VIC",
+    "employer": "KJR",
+    "work_type": "Casual/Vacation"
+  },
+  {
+    "job_id": "87931465",
+    "title": "Power Platform Developer",
+    "listing_date": "2025-10-17T02:39:09+00:00",
+    "location": "Bella Vista, Sydney NSW",
+    "employer": "Funds Now (Aus) Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87932130",
+    "title": "Principal Data Engineer - Azure Databricks | Python PySpark Databricks Engineer",
+    "listing_date": "2025-10-17T02:37:29+00:00",
+    "location": "Sydney NSW",
+    "employer": "Infinity Pro",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87940524",
+    "title": "Sr. Analyst, Falcon Complete",
+    "listing_date": "2025-10-17T02:30:00+00:00",
+    "location": "Australia",
+    "employer": "CrowdStrike",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87940527",
+    "title": "Senior Intelligence Analyst (Remote, AUS)",
+    "listing_date": "2025-10-17T02:30:00+00:00",
+    "location": "Australia",
+    "employer": "CrowdStrike",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87931605",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-17T02:26:11+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Mexec",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87931568",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-17T02:25:30+00:00",
+    "location": "East Melbourne, Melbourne VIC",
+    "employer": "Melbourne Archdiocese Catholic Schools",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87931656",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-17T02:22:24+00:00",
+    "location": "Sydney NSW",
+    "employer": "Facto",
+    "work_type": "Contract/Temp, Casual/Vacation"
+  },
+  {
+    "job_id": "87931422",
+    "title": "IAM Engineer (Forgerock)",
+    "listing_date": "2025-10-17T02:21:24+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Davidson Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87879301",
+    "title": "Business Intelligence Analyst",
+    "listing_date": "2025-10-17T02:21:15+00:00",
+    "location": "Adelaide SA",
+    "employer": "Department for Infrastructure and Transport",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87847421",
+    "title": "Senior Developer",
+    "listing_date": "2025-10-17T02:20:10+00:00",
+    "location": "Adelaide SA",
+    "employer": "Department for Infrastructure and Transport",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87931228",
+    "title": "Senior Developer",
+    "listing_date": "2025-10-17T02:17:14+00:00",
+    "location": "Sydney NSW",
+    "employer": "NSW Electoral Commission",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87930209",
+    "title": "Data & AI Platforms Engineer",
+    "listing_date": "2025-10-17T02:00:17+00:00",
+    "location": "Sydney NSW",
+    "employer": "APA Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87930205",
+    "title": "Data & AI Platforms Engineer",
+    "listing_date": "2025-10-17T02:00:10+00:00",
+    "location": "Melbourne VIC",
+    "employer": "APA Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87930193",
+    "title": "Infrastructure Engineer",
+    "listing_date": "2025-10-17T01:59:47+00:00",
+    "location": "Sydney NSW",
+    "employer": "M&T Resources",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87930043",
+    "title": "Senior Systems Engineer",
+    "listing_date": "2025-10-17T01:55:46+00:00",
+    "location": "Maroochydore, Sunshine Coast QLD",
+    "employer": "Sunshine Coast Council",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87929825",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-17T01:50:11+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talenza",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87929703",
+    "title": "Systems Integration Director",
+    "listing_date": "2025-10-17T01:47:04+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Quality People",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87929633",
+    "title": "SAP Analytics Cloud Planning Developer",
+    "listing_date": "2025-10-17T01:45:05+00:00",
+    "location": "Melbourne VIC",
+    "employer": "CSIRO",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87929434",
+    "title": "ICT Systems Analyst",
+    "listing_date": "2025-10-17T01:39:33+00:00",
+    "location": "Echuca, Shepparton & Goulburn Valley VIC",
+    "employer": "We Are Vivid",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87929213",
+    "title": "Systems Engineer - Citrix",
+    "listing_date": "2025-10-17T01:34:31+00:00",
+    "location": "Alexandria, Sydney NSW",
+    "employer": "Balance Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87929148",
+    "title": "Electrical and Automation Engineer",
+    "listing_date": "2025-10-17T01:32:54+00:00",
+    "location": "Hobart TAS",
+    "employer": "Tassal Operations",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87928901",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-17T01:26:11+00:00",
+    "location": "Liverpool, Sydney NSW",
+    "employer": "Liverpool City Council",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87928549",
+    "title": "Technical Solution Delivery Manager",
+    "listing_date": "2025-10-17T01:15:28+00:00",
+    "location": "Parramatta, Sydney NSW",
+    "employer": "Department of Planning, Housing and Infrastructure NSW",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87928279",
+    "title": "Denodo Data Engineer",
+    "listing_date": "2025-10-17T01:05:53+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Asahi Beverages",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87928075",
+    "title": "Data Centre Engineer",
+    "listing_date": "2025-10-17T00:58:16+00:00",
+    "location": "Sydney NSW",
+    "employer": "Interactive Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927736",
+    "title": "Senior Analyst - Systems & Platform",
+    "listing_date": "2025-10-17T00:45:22+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Origin Energy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927691",
+    "title": "Senior Systems Engineer",
+    "listing_date": "2025-10-17T00:44:00+00:00",
+    "location": "Canberra ACT",
+    "employer": "Leidos",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927634",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-17T00:41:07+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Cadence Connect",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927502",
+    "title": "ENTERPRISE ASSET MANAGEMENT PROCESS AND SYSTEMS SPECIALIST",
+    "listing_date": "2025-10-17T00:36:10+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Brisbane City Council",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927497",
+    "title": "Software Engineer (C++)",
+    "listing_date": "2025-10-17T00:35:54+00:00",
+    "location": "North Ryde, Sydney NSW",
+    "employer": "PERSOL",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87927455",
+    "title": "Senior Systems Engineer",
+    "listing_date": "2025-10-17T00:34:56+00:00",
+    "location": "Mawson Lakes, Adelaide SA",
+    "employer": "Lockheed Martin",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927286",
+    "title": "Senior FPGA Engineer \u2013 High-Frequency Trading Systems",
+    "listing_date": "2025-10-17T00:28:35+00:00",
+    "location": "Sydney NSW",
+    "employer": "Westbury Partners",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87927094",
+    "title": "Technical Training Developer",
+    "listing_date": "2025-10-17T00:21:53+00:00",
+    "location": "Toowoomba, Toowoomba & Darling Downs QLD",
+    "employer": "Boeing",
+    "work_type": "Part time"
+  },
+  {
+    "job_id": "87926829",
+    "title": "Cloud and Infrastructure Architect",
+    "listing_date": "2025-10-17T00:06:04+00:00",
+    "location": "Bedford Park, Adelaide SA",
+    "employer": "Flinders University of South Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926718",
+    "title": "Platform Engineer - Data Governance & Cloud",
+    "listing_date": "2025-10-17T00:01:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "Whizdom",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87926560",
+    "title": "Boomi Developer",
+    "listing_date": "2025-10-16T23:55:55+00:00",
+    "location": "Docklands, Melbourne VIC",
+    "employer": "Service Stream Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926559",
+    "title": "Agile Release Train Engineer",
+    "listing_date": "2025-10-16T23:55:50+00:00",
+    "location": "Canberra ACT",
+    "employer": "Recruitment Hive",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87952432",
+    "title": "Trading Operations Engineer",
+    "listing_date": "2025-10-16T23:53:58+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Pepperstone Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926418",
+    "title": "DevSecOps Engineers",
+    "listing_date": "2025-10-16T23:48:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Compas",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87926377",
+    "title": "Modelling and Simulation Support Officer",
+    "listing_date": "2025-10-16T23:46:18+00:00",
+    "location": "Canberra ACT",
+    "employer": "FinXL IT Professional Services",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926335",
+    "title": "Senior Software Engineer",
+    "listing_date": "2025-10-16T23:45:13+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Origin Energy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926331",
+    "title": "Modern Workplace Engineer",
+    "listing_date": "2025-10-16T23:45:10+00:00",
+    "location": "Broadmeadows, Melbourne VIC",
+    "employer": "Bendigo Kangan Institute",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926394",
+    "title": "Engineer - Engage - Report SharingNew",
+    "listing_date": "2025-10-16T23:41:48+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Culture Amp",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926209",
+    "title": "DevOps Engineer",
+    "listing_date": "2025-10-16T23:39:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Compas",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87926130",
+    "title": "Systems Engineer, Cloud Infrastructure",
+    "listing_date": "2025-10-16T23:35:03+00:00",
+    "location": "Burwood East, Melbourne VIC",
+    "employer": "Triple Zero Victoria",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926096",
+    "title": "Network Engineer",
+    "listing_date": "2025-10-16T23:33:29+00:00",
+    "location": "Nuriootpa, Adelaide Hills & Barossa SA",
+    "employer": "Treasury Wine Estates",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926069",
+    "title": "Cloud Engineer",
+    "listing_date": "2025-10-16T23:32:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Compas",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87926034",
+    "title": "ASD 5 & 6 DevOps Engineer",
+    "listing_date": "2025-10-16T23:30:32+00:00",
+    "location": "Canberra ACT",
+    "employer": "Australian Signals Directorate",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926025",
+    "title": "ASD 5 & 6 DevOps Engineer",
+    "listing_date": "2025-10-16T23:30:08+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Australian Signals Directorate",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926010",
+    "title": "ASD 5 & 6 DevOps Engineer",
+    "listing_date": "2025-10-16T23:29:47+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Australian Signals Directorate",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925975",
+    "title": "Principal Software Engineer - Fullstack",
+    "listing_date": "2025-10-16T23:27:54+00:00",
+    "location": "Sydney NSW",
+    "employer": "Objective Corporation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925830",
+    "title": "Electrical Test Engineer",
+    "listing_date": "2025-10-16T23:21:45+00:00",
+    "location": "Gosford, Gosford & Central Coast NSW",
+    "employer": "H Nu Pty Ltd",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925800",
+    "title": "Senior/Tech Lead - AI Development",
+    "listing_date": "2025-10-16T23:18:18+00:00",
+    "location": "Adelaide SA",
+    "employer": "Datacom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925793",
+    "title": "Senior/Tech Lead - AI Development",
+    "listing_date": "2025-10-16T23:17:45+00:00",
+    "location": "Canberra ACT",
+    "employer": "Datacom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925780",
+    "title": "Senior/Tech Lead - AI Development",
+    "listing_date": "2025-10-16T23:17:10+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Datacom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925766",
+    "title": "Senior/Tech Lead - AI Development",
+    "listing_date": "2025-10-16T23:16:07+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Datacom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925752",
+    "title": "Senior/Tech Lead - AI Development",
+    "listing_date": "2025-10-16T23:15:23+00:00",
+    "location": "Sydney NSW",
+    "employer": "Datacom",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925751",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-16T23:15:09+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Iterate",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925619",
+    "title": "Data Engineer/BI Lead",
+    "listing_date": "2025-10-16T23:06:10+00:00",
+    "location": "Knoxfield, Melbourne VIC",
+    "employer": "Brown and Watson International",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925517",
+    "title": "Engineering Manager",
+    "listing_date": "2025-10-16T23:02:23+00:00",
+    "location": "Fyshwick, Canberra ACT",
+    "employer": "Australian Department of Defence",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925467",
+    "title": "Sailpoint IGA Engineer",
+    "listing_date": "2025-10-16T23:00:13+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Onset",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87925378",
+    "title": "Senior Data Engineer",
+    "listing_date": "2025-10-16T22:53:05+00:00",
+    "location": "Canberra ACT",
+    "employer": "Canberra Consulting",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87925296",
+    "title": "Senior DevOps Data Engineer EL1 ( SAS VI/VIYA )",
+    "listing_date": "2025-10-16T22:48:05+00:00",
+    "location": "Melbourne VIC",
+    "employer": "PATH4 Group",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87924688",
+    "title": "Systems Integration Specialist",
+    "listing_date": "2025-10-16T22:26:21+00:00",
+    "location": "Wyong, Gosford & Central Coast NSW",
+    "employer": "Central Coast Council TAS",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924666",
+    "title": "Platform Engineer",
+    "listing_date": "2025-10-16T22:25:14+00:00",
+    "location": "Canberra ACT",
+    "employer": "Aurizn",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924624",
+    "title": "Software Developer",
+    "listing_date": "2025-10-16T22:22:04+00:00",
+    "location": "Canberra ACT",
+    "employer": "Whizdom",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87924520",
+    "title": "Product Design Engineer - Mechatronics",
+    "listing_date": "2025-10-16T22:14:05+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Blackbook Executive",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924489",
+    "title": "Software Engineer - AI Product",
+    "listing_date": "2025-10-16T22:11:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "The Onset",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924379",
+    "title": "Senior DevOps Engineer",
+    "listing_date": "2025-10-16T22:01:36+00:00",
+    "location": "Melbourne VIC",
+    "employer": "EIGHTCAP SERVICES PTY LTD",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924260",
+    "title": "Senior NodeJS Developer",
+    "listing_date": "2025-10-16T21:58:02+00:00",
+    "location": "Toowong, Brisbane QLD",
+    "employer": "Auto & General",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87924147",
+    "title": "Software Engineer - React and Node",
+    "listing_date": "2025-10-16T21:49:54+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Attribute Group",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87923888",
+    "title": "Software Engineer - Embedded C + Linux",
+    "listing_date": "2025-10-16T21:23:52+00:00",
+    "location": "Eight Mile Plains, Brisbane QLD",
+    "employer": "Lumascape",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87923876",
+    "title": "Server Compute Officer",
+    "listing_date": "2025-10-16T21:23:26+00:00",
+    "location": "Bundall, Gold Coast QLD",
+    "employer": "City of Gold Coast",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87923872",
+    "title": "OSI PI Historian Engineer / Administrator",
+    "listing_date": "2025-10-16T21:22:19+00:00",
+    "location": "Perth WA",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87923612",
+    "title": "Senior Full-Stack Developer",
+    "listing_date": "2025-10-16T21:01:56+00:00",
+    "location": "Sydney NSW",
+    "employer": "Cybertify",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87923503",
+    "title": "Senior Control Systems Engineer",
+    "listing_date": "2025-10-16T20:43:15+00:00",
+    "location": "Morningside, Brisbane QLD",
+    "employer": "Alliance Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87922817",
+    "title": "Future Energy Planning Engineer",
+    "listing_date": "2025-10-16T19:35:29+00:00",
+    "location": "Parramatta, Sydney NSW",
+    "employer": "Endeavour Energy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920998",
+    "title": "Senior D365 CE Developer",
+    "listing_date": "2025-10-16T14:56:17+00:00",
+    "location": "Brisbane QLD",
+    "employer": "4impact",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920936",
+    "title": "Senior Software Engineer - Agentic AI",
+    "listing_date": "2025-10-16T14:43:24+00:00",
+    "location": "Sydney NSW",
+    "employer": "Lendi Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920560",
+    "title": "Software Architect",
+    "listing_date": "2025-10-16T14:09:14+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Ingenico",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920610",
+    "title": "Support Engineer",
+    "listing_date": "2025-10-16T14:09:06+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "Nine",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920530",
+    "title": "Principal Technology Officer",
+    "listing_date": "2025-10-16T14:01:07+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "Queensland Health",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920527",
+    "title": "Principal Systems Integrator",
+    "listing_date": "2025-10-16T14:01:05+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "Queensland Health",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87920324",
+    "title": "Head of Architecture and Security Solutions",
+    "listing_date": "2025-10-16T13:44:19+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Downer",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87934075",
+    "title": "Technical Lead - L1",
+    "listing_date": "2025-10-16T12:00:00+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Wipro",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926361",
+    "title": "IoT Engineer",
+    "listing_date": "2025-10-16T12:00:00+00:00",
+    "location": "Healesville, Yarra Valley & High Country VIC",
+    "employer": "Yarra Valley Water",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926358",
+    "title": "IoT Technical Specialist",
+    "listing_date": "2025-10-16T12:00:00+00:00",
+    "location": "Healesville, Yarra Valley & High Country VIC",
+    "employer": "Yarra Valley Water",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87926360",
+    "title": "Senior Data Analytics Specialist - Operations",
+    "listing_date": "2025-10-16T12:00:00+00:00",
+    "location": "Healesville, Yarra Valley & High Country VIC",
+    "employer": "Yarra Valley Water",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87918819",
+    "title": "Senior Software Engineer, Back-end",
+    "listing_date": "2025-10-16T11:53:52+00:00",
+    "location": "Sydney NSW",
+    "employer": "Q-Ctrl",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87918216",
+    "title": "Domain Architect - General Insurance",
+    "listing_date": "2025-10-16T10:44:19+00:00",
+    "location": "Sydney NSW",
+    "employer": "Tallentire O'Flynn Movsowitz",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87917643",
+    "title": "Enterprise Architect",
+    "listing_date": "2025-10-16T10:15:21+00:00",
+    "location": "Sydney NSW",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87917345",
+    "title": "Senior Cloud Security & Automation Engineer (Akamai, IaC) - Perm or Contract",
+    "listing_date": "2025-10-16T09:59:39+00:00",
+    "location": "Sydney NSW",
+    "employer": "Software at Scale",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87917125",
+    "title": "Graduate Machine Learning Engineer",
+    "listing_date": "2025-10-16T09:46:42+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Intalo Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87916800",
+    "title": "Senior Software Engineer (.NET C#) - Perm or Contract",
+    "listing_date": "2025-10-16T09:34:36+00:00",
+    "location": "Sydney NSW",
+    "employer": "Software at Scale",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87916513",
+    "title": "Programmer",
+    "listing_date": "2025-10-16T09:18:51+00:00",
+    "location": "Nedlands, Perth WA",
+    "employer": "The University of Western Australia",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87916447",
+    "title": "Senior Consultant",
+    "listing_date": "2025-10-16T09:10:29+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Infosys",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87916446",
+    "title": "Senior Associate Consultant",
+    "listing_date": "2025-10-16T09:10:28+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Infosys",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87916404",
+    "title": "Technical Analyst",
+    "listing_date": "2025-10-16T09:08:51+00:00",
+    "location": "Sydney NSW",
+    "employer": "SBS",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87915789",
+    "title": "System Analyst",
+    "listing_date": "2025-10-16T08:46:50+00:00",
+    "location": "Sydney NSW",
+    "employer": "Accenture",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87915221",
+    "title": "Engineering Manager - Core Infrastructure",
+    "listing_date": "2025-10-16T08:21:25+00:00",
+    "location": "Sydney NSW",
+    "employer": "Stripe",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87915018",
+    "title": "Engineering Team Lead",
+    "listing_date": "2025-10-16T08:19:47+00:00",
+    "location": "Sydney NSW",
+    "employer": "Plenti",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87915174",
+    "title": "Software Engineer (FanDuel) .NET & AWS",
+    "listing_date": "2025-10-16T08:19:32+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Sportsbet",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87914633",
+    "title": "Senior Infrastructure Engineer (VMware)",
+    "listing_date": "2025-10-16T08:05:41+00:00",
+    "location": "Canberra ACT",
+    "employer": "NW Technology",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87914350",
+    "title": "Data & AI Privacy Lead/Manager",
+    "listing_date": "2025-10-16T07:55:07+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Peoplebank",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87913786",
+    "title": "AI Engineer",
+    "listing_date": "2025-10-16T07:34:37+00:00",
+    "location": "Brisbane QLD",
+    "employer": "GRIT Talent Consulting",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87913573",
+    "title": "Gen AI Platform Engineer (Sydney Based)",
+    "listing_date": "2025-10-16T07:26:32+00:00",
+    "location": "Brisbane QLD",
+    "employer": "NCS Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87913500",
+    "title": "Gen AI Platform Engineer - (Sydney Based)",
+    "listing_date": "2025-10-16T07:24:34+00:00",
+    "location": "Melbourne VIC",
+    "employer": "NCS Group",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87913284",
+    "title": "Systems Engineer",
+    "listing_date": "2025-10-16T07:11:09+00:00",
+    "location": "Perth WA",
+    "employer": "Brennan",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87912823",
+    "title": "Project Manager - Data & AI",
+    "listing_date": "2025-10-16T06:59:04+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Hudson",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87912718",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-16T06:55:36+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87912214",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-16T06:43:33+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Mcnab Constructions",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87912066",
+    "title": "Project Manager -Data and Artificial Intelligence",
+    "listing_date": "2025-10-16T06:38:38+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Talent International",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87911971",
+    "title": "Senior Software Developer",
+    "listing_date": "2025-10-16T06:36:44+00:00",
+    "location": "Adelaide SA",
+    "employer": "FYI Software",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87911597",
+    "title": "365 Engineer  - 2:3 hybrid in Mac Park - Up to $155K base",
+    "listing_date": "2025-10-16T06:27:39+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "Balance Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87911702",
+    "title": "Assoc. Design Director - Enterprise Scale",
+    "listing_date": "2025-10-16T06:24:58+00:00",
+    "location": "Australia",
+    "employer": "Octopus Deploy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87911091",
+    "title": "NetIQ Engineer",
+    "listing_date": "2025-10-16T06:12:35+00:00",
+    "location": "Melbourne VIC",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87910684",
+    "title": "Senior System Engineer",
+    "listing_date": "2025-10-16T06:00:18+00:00",
+    "location": "Collingwood, Melbourne VIC",
+    "employer": "Clicks IT Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87910508",
+    "title": "Automation Technical Specialist",
+    "listing_date": "2025-10-16T05:54:12+00:00",
+    "location": "Botany, Sydney NSW",
+    "employer": "Kalmar Global",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87910505",
+    "title": "Applications and Systems Engineer",
+    "listing_date": "2025-10-16T05:54:04+00:00",
+    "location": "Adelaide SA",
+    "employer": "SKYCITY Adelaide",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87910446",
+    "title": "Enterprise Integration & Data Platform Engineer",
+    "listing_date": "2025-10-16T05:52:14+00:00",
+    "location": "Canberra ACT",
+    "employer": "Hays Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87910365",
+    "title": "Business Systems Developer",
+    "listing_date": "2025-10-16T05:49:07+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Stanbroke",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87896864",
+    "title": "Software Tester",
+    "listing_date": "2025-10-16T05:48:23+00:00",
+    "location": "Rowville, Melbourne VIC",
+    "employer": "ARRB Systems",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87910301",
+    "title": "Senior Grid Modelling Engineer - Large Scale Solutions",
+    "listing_date": "2025-10-16T05:47:24+00:00",
+    "location": "North Sydney, Sydney NSW",
+    "employer": "SMA Australia Pty. Ltd.",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87909894",
+    "title": "Data Engineer",
+    "listing_date": "2025-10-16T05:34:01+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Davidson Recruitment",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87909893",
+    "title": "Service Desk Engineer",
+    "listing_date": "2025-10-16T05:34:00+00:00",
+    "location": "Brisbane QLD",
+    "employer": "IT Integrity",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87909701",
+    "title": "Senior Associate, Architecture & Solution Design",
+    "listing_date": "2025-10-16T05:28:11+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Queensland Treasury Corporation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87909581",
+    "title": "Data Engineering Lead",
+    "listing_date": "2025-10-16T05:24:21+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "SunWater",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87909327",
+    "title": "Enterprise Architect",
+    "listing_date": "2025-10-16T05:15:53+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "Queensland Health",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87909303",
+    "title": "Software Engineer",
+    "listing_date": "2025-10-16T05:15:07+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "Honeysuckle Health",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87909273",
+    "title": "Defence Systems Modeler",
+    "listing_date": "2025-10-16T05:14:04+00:00",
+    "location": "Canberra ACT",
+    "employer": "Compas",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87909220",
+    "title": "Senior Systems Engineer, Canberra, NV2 clearance \u2013 100% Onsite",
+    "listing_date": "2025-10-16T05:12:06+00:00",
+    "location": "Canberra ACT",
+    "employer": "Private Advertiser",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87908952",
+    "title": "Snr Data Engineer - up to $180K base - 2:3 hybrid in Mac Park",
+    "listing_date": "2025-10-16T05:02:20+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "Balance Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908824",
+    "title": "Snr Azure Engineer - 2:3 hybrid in Macquarie Park - up to $170K base",
+    "listing_date": "2025-10-16T04:57:54+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "Balance Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908787",
+    "title": "Control Systems Engineer",
+    "listing_date": "2025-10-16T04:57:06+00:00",
+    "location": "Biloela, Gladstone & Central QLD",
+    "employer": "CS Energy",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908704",
+    "title": "MQ-28 Software Engineer",
+    "listing_date": "2025-10-16T04:54:37+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Boeing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908662",
+    "title": "IoT Engineer",
+    "listing_date": "2025-10-16T04:53:27+00:00",
+    "location": "Mitcham, Melbourne VIC",
+    "employer": "Yarra Valley Water",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908628",
+    "title": "Process Computing Engineer - 12 Month Fixed Term Contract",
+    "listing_date": "2025-10-16T04:52:16+00:00",
+    "location": "Port Kembla, Wollongong, Illawarra & South Coast NSW",
+    "employer": "BlueScope Steel",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908627",
+    "title": "Data Privacy Manager",
+    "listing_date": "2025-10-16T04:52:15+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Talent International",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908547",
+    "title": "SAS Platform Engineer",
+    "listing_date": "2025-10-16T04:49:45+00:00",
+    "location": "Sydney NSW",
+    "employer": "Randstad",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87908256",
+    "title": "Senior Director, AI Foundations and Engineering",
+    "listing_date": "2025-10-16T04:45:09+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "Optus",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908163",
+    "title": "Web Developer",
+    "listing_date": "2025-10-16T04:44:01+00:00",
+    "location": "Adelaide SA",
+    "employer": "Invenio",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87908062",
+    "title": "Product Support Engineer",
+    "listing_date": "2025-10-16T04:41:41+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Insitu Pacific",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87907870",
+    "title": "Enterprise Security Architect",
+    "listing_date": "2025-10-16T04:34:35+00:00",
+    "location": "Clayton, Melbourne VIC",
+    "employer": "Experis",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87907849",
+    "title": "IoT Technical Specialist",
+    "listing_date": "2025-10-16T04:33:42+00:00",
+    "location": "Mitcham, Melbourne VIC",
+    "employer": "Yarra Valley Water",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87897830",
+    "title": "Security Systems Engineer",
+    "listing_date": "2025-10-16T04:21:54+00:00",
+    "location": "Truganina, Melbourne VIC",
+    "employer": "STACK Infrastructure",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87907369",
+    "title": "Principal Developer - .NET",
+    "listing_date": "2025-10-16T04:21:51+00:00",
+    "location": "Perth WA",
+    "employer": "Australian Energy Market Operator",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87907347",
+    "title": "Platform Engineer - Reliability, Middleware & Integration",
+    "listing_date": "2025-10-16T04:21:25+00:00",
+    "location": "Nathan, Brisbane QLD",
+    "employer": "Griffith University",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87907190",
+    "title": "Solution Architect",
+    "listing_date": "2025-10-16T04:16:27+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Sharp and Carter",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87906935",
+    "title": "Product Analyst - Casino",
+    "listing_date": "2025-10-16T04:08:03+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Easygo",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906714",
+    "title": "Senior Power Platform Developer",
+    "listing_date": "2025-10-16T04:02:58+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Clicks IT Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906667",
+    "title": "Product Analyst - KICK",
+    "listing_date": "2025-10-16T04:02:08+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Easygo",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906637",
+    "title": "Industrial Engineer",
+    "listing_date": "2025-10-16T04:01:29+00:00",
+    "location": "Port Melbourne, Melbourne VIC",
+    "employer": "Boeing",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906794",
+    "title": "Core Assets Technical Director",
+    "listing_date": "2025-10-16T04:00:03+00:00",
+    "location": "Sydney NSW",
+    "employer": "Netflix",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906431",
+    "title": "Splunk Engineer / Architect",
+    "listing_date": "2025-10-16T03:56:39+00:00",
+    "location": "Melbourne VIC",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906407",
+    "title": "Splunk Engineer / Architect",
+    "listing_date": "2025-10-16T03:56:02+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906368",
+    "title": "Systems Engineer, Security Operations",
+    "listing_date": "2025-10-16T03:55:10+00:00",
+    "location": "Burwood East, Melbourne VIC",
+    "employer": "Triple Zero Victoria",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87906283",
+    "title": "Senior Data Architect",
+    "listing_date": "2025-10-16T03:53:00+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Aspirante",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87905978",
+    "title": "Control Systems Engineer",
+    "listing_date": "2025-10-16T03:47:45+00:00",
+    "location": "Fortitude Valley, Brisbane QLD",
+    "employer": "EEHA Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87905498",
+    "title": "Development Team Lead",
+    "listing_date": "2025-10-16T03:35:38+00:00",
+    "location": "Sydney NSW",
+    "employer": "NSW Electoral Commission",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87905000",
+    "title": "Cyber Defence - SOC Engineering & Automation Manager",
+    "listing_date": "2025-10-16T03:24:51+00:00",
+    "location": "Melbourne VIC",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87904965",
+    "title": "Cyber Defence - SOC Engineering & Automation Manager",
+    "listing_date": "2025-10-16T03:24:12+00:00",
+    "location": "Macquarie Park, Sydney NSW",
+    "employer": "DXC Technology",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87904715",
+    "title": "Enterprise Integration & Data Platform Engineer",
+    "listing_date": "2025-10-16T03:17:37+00:00",
+    "location": "Canberra ACT",
+    "employer": "Elysium Digital",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87904624",
+    "title": "Solutions Specialist",
+    "listing_date": "2025-10-16T03:15:20+00:00",
+    "location": "Taree, Port Macquarie & Mid North Coast NSW",
+    "employer": "MidCoast Council",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87904321",
+    "title": "Solutions Architect",
+    "listing_date": "2025-10-16T03:07:04+00:00",
+    "location": "Melbourne VIC",
+    "employer": "AJQ",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87904235",
+    "title": "AI Engineer",
+    "listing_date": "2025-10-16T03:04:22+00:00",
+    "location": "Sydney NSW",
+    "employer": "Michael Page",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87904176",
+    "title": "Linux Engineer",
+    "listing_date": "2025-10-16T03:02:42+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Unisys",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87904053",
+    "title": "Principal Data Engineer",
+    "listing_date": "2025-10-16T02:59:07+00:00",
+    "location": "Sydney NSW",
+    "employer": "Ampersand Ltd",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87904007",
+    "title": "Automation Specialist",
+    "listing_date": "2025-10-16T02:57:47+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Liberty Financial",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87903666",
+    "title": "Mechatronics Engineer",
+    "listing_date": "2025-10-16T02:51:27+00:00",
+    "location": "Warabrook, Newcastle, Maitland & Hunter NSW",
+    "employer": "MRA Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87902810",
+    "title": "Solution Architect - Data, AI & Cloud",
+    "listing_date": "2025-10-16T02:27:09+00:00",
+    "location": "Melbourne VIC",
+    "employer": "Davidson Recruitment",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87902537",
+    "title": "Principal Software Engineer",
+    "listing_date": "2025-10-16T02:21:29+00:00",
+    "location": "Sydney NSW",
+    "employer": "Ethan Talent",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87901942",
+    "title": "Senior Applications Technical Analyst",
+    "listing_date": "2025-10-16T02:11:29+00:00",
+    "location": "St Lucia, Brisbane QLD",
+    "employer": "The University of Queensland",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87901817",
+    "title": "Application Support Engineer",
+    "listing_date": "2025-10-16T02:07:57+00:00",
+    "location": "Sydney NSW",
+    "employer": "Plenti",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87901592",
+    "title": "Operational Technology Engineer",
+    "listing_date": "2025-10-16T02:00:38+00:00",
+    "location": "Mudgee, Blue Mountains & Central West NSW",
+    "employer": "Glencore",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87901477",
+    "title": "Data Analyst, Data Professional",
+    "listing_date": "2025-10-16T01:56:30+00:00",
+    "location": "Perth WA",
+    "employer": "Crystalise",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87901429",
+    "title": "Senior Software Engineer_Capacity Infrastructure Services",
+    "listing_date": "2025-10-16T01:55:05+00:00",
+    "location": "Sydney NSW",
+    "employer": "Microsoft",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87901347",
+    "title": "Senior Software Engineer (Python) - Perm or Contract",
+    "listing_date": "2025-10-16T01:53:40+00:00",
+    "location": "Sydney NSW",
+    "employer": "Software at Scale",
+    "work_type": "Contract/Temp"
+  },
+  {
+    "job_id": "87900886",
+    "title": "Senior Technical Program Manager \u2013 Clipchamp",
+    "listing_date": "2025-10-16T01:40:50+00:00",
+    "location": "Brisbane QLD",
+    "employer": "Microsoft",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87900855",
+    "title": "Automation Analyst",
+    "listing_date": "2025-10-16T01:39:53+00:00",
+    "location": "Toowong, Brisbane QLD",
+    "employer": "Auto & General",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87900811",
+    "title": "Automation Technician",
+    "listing_date": "2025-10-16T01:38:45+00:00",
+    "location": "Oaklands Park, Adelaide SA",
+    "employer": "SAGE Automation",
+    "work_type": "Full time"
+  },
+  {
+    "job_id": "87900667",
+    "title": "Data and Digital Workplace Lead",
+    "listing_date": "2025-10-16T01:34:00+00:00",
+    "location": "Adelaide SA",
+    "employer": "Department for Energy and Mining SA",
+    "work_type": "Full time"
+  }
+]
